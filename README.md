@@ -67,8 +67,6 @@ flowchart TD
 
  [Kirby's Epic Yarn - image](https://uk.pinterest.com/pin/230528074717155010/)
 
-[Kirby's Epic Yarn - image wallpaper](https://pt.pinterest.com/pin/575334921126594201/)
-
 [Kirby's Epic Yarn - fandom_wiki](https://kirby.fandom.com/wiki/Kirby%27s_Epic_Yarn)
 
 
